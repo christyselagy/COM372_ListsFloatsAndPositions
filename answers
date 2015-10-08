@@ -1,0 +1,44 @@
+Floats
+1.  Div1 is at the far right of the page, and Div2 is to the left of Div1, but not all the way to the left of the page (70 on the ruler)
+2.  Div1 at the left, but with 3 em of space between the left edge and the div. Div2 is to the right of Div1. 7 em apart
+3.  Div1 is at the right side of the page, and Div2 is at the left side
+4.  Div1 becomes longer horizontally, and Div2 stays the same size
+5.  41% is the largest both columns can
+6.  The text in both divs gets cut off when the browser is resized
+7.  The larger the padding and margin, the lower the maximum width. The smaller the padding and margin, the larger the maximum width
+8.  added Div3. 3 columns, divs 1 and 3 have same background color
+9.  Divs 1,2, and 3 - width: 29:, padding and margin: 1em, float: left
+10. Div1 - width: 20%; padding and margin: 1em; float: left. Divs 2 and 3 - width: 34.5%; padding and margin: 1em; float: left
+11. Div1 and Div3 - width: 16%, padding and margin: 1em, float: left. Div2 - width: 54%, padding and margin: 1em, float: left
+
+Lists
+1. Bullet points indented
+2. Bullet points moved further out/closer to page edge
+3. Bullet points are squares
+4. No bullet points, but still formated as unordered list
+5. border: red solid 2px. It takes up a lot of space
+6. list items move to left edge of screen
+7. list items go back to same position as before the initial padding
+8. list items go back to left edge of screen
+
+1. black dashed border extending to end on red border around each list item
+2. more space around each list item
+3. right edge of border doesn't take up the whole width of the page, only a list-style
+4. more space around the outside of each list item's border
+5. list items are horizontal and contained within red box, but their black borders are outside red border
+6. list items are vertical and in the red box
+7. list items are horizontal, in the red box, and their black borders are also in the red box
+
+Position
+1.  looks the same as before the relative position property was added
+2.  box moves to the right some
+3.  box moves to the left, and part of the text is cut off by the edge of the screen
+4.  more space between ruler and box. scroll bar for the area where the box is because the bottom is cut off
+5.  box moves to the right
+6.  box goes back to original position with top and left edges aligned to gray box
+7.  box isn't contained in gray box anymore and gray box is only wrapped around original text inside it
+8.  box is moved to very top of the page
+9.  box moves from top left corner to top right corner
+10. box moves to the left a little
+11. box moves back to gray box toward bottom of the page. top aligned with top of gray box
+12. box moves to very bottom of page
